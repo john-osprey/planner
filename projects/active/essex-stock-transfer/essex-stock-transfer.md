@@ -15,6 +15,24 @@ Complete the acquisition of John R Gordon's equity positions in Essex-related co
 
 ## Progress Log
 
+### 9/24/2025 - Purchase Agreements Executed
+**Major Progress:**
+- ✅ **Purchase agreements signed** - John A Roberts and John R Gordon have executed all three agreements
+- ✅ **Executed copies sent to Deltec** - Fully signed agreements sent to Madge Dietrich and John von Reine
+- ✅ **K-1 updates shared** - Informed JVR/Madge that John R Gordon should expect Wood Solutions Group K-1 shortly
+- ✅ **K-1 confirmations** - John R Gordon has already received Astreka and GeoSynFuels K-1s
+- **Signed agreements:**
+  - Astreka LLC Unit Purchase Agreement (09/24/2025)
+  - GeoSynFuels LLC Unit Purchase Agreement (09/24/2025)
+  - Wood Solutions Group LLC Unit Purchase Agreement (09/24/2025)
+
+### 9/19/2025 - Eli Confirmation Call & JVR/Madge Communication
+**Confirmed:**
+- ✅ Purchase agreements will be sufficient to handle transactions between John A Roberts and John R Gordon
+- ✅ Kathleen Kempton at Essex will handle transfer mechanics and cap table updates (available all week next week)
+- ✅ Emailed John von Reine and Madge Dietrich about Eli discussion and readiness to proceed
+- ✅ Lanvira research completed
+
 ### 9/16/2025 - Conference Call with Madge Dietrich & John von Reine
 **Confirmed:**
 - ✅ John R Gordon holds shares personally (not through entities)
@@ -45,28 +63,29 @@ Complete the acquisition of John R Gordon's equity positions in Essex-related co
 - [x] Confirm seller name: John R Gordon
 - [ ] Obtain current cap tables and ownership percentages
 
-### Phase 2: Documentation - IN PROGRESS
-- [ ] Draft purchase agreement letter(s) for unit sales
+### Phase 2: Documentation ✅ COMPLETED
+- [x] Draft purchase agreement letter(s) for unit sales
   - **Template Available:** [LLC Unit Purchase Agreement Template](llc-unit-purchase-agreement-template.md)
-  - Need to customize for each company: Astreka, Geosynfuels, Wood Solutions Group
+  - ✅ Customized for each company: Astreka, Geosynfuels, Wood Solutions Group
 - [x] Share purchase agreement template with JVR and Madge for review
-- [ ] Receive feedback and finalize agreements
+- [x] **Share drafted purchase agreements with JVR and Madge** - ✅ Emailed about readiness to proceed
+- [x] Receive feedback and finalize agreements ✅ COMPLETED 9/24
 - [x] Check 2024 K-1 status for all three companies (none issued yet)
 - [ ] Check with Eli and Essex on when 2024 K-1s are expected to be available
 - [ ] Review legal requirements for transfers
 - [ ] Prepare supporting documentation
 
-### Phase 3: Execution & Transfer
-- [ ] Contact Eli to get Essex employee contact information
-- [ ] Reach out to Essex employee for cap table information
-- [ ] Execute purchase agreements
+### Phase 3: Execution & Transfer - IN PROGRESS
+- [x] Contact Eli to get Essex employee contact information
+- [ ] **Reach out to Kathleen Kempton at Essex** - Inform of transactions and request company record updates
+- [x] Execute purchase agreements ✅ COMPLETED 9/24 - All three agreements signed
 - [ ] Ensure company books reflect the transfers
 - [ ] Update cap tables across all affected companies
 - [ ] Verify all company records are accurate
 
 ### Phase 4: Communication & Updates
-- [ ] Regular updates to Deltec reps (JVR and Madge)
-- [ ] Progress reports to John R Gordon
+- [x] Regular updates to Deltec reps (JVR and Madge) ✅ Sent executed agreements 9/24
+- [x] Progress reports to John R Gordon ✅ Ongoing coordination
 - [ ] Final confirmation of completed transfers
 
 ## Stakeholders
@@ -75,14 +94,14 @@ Complete the acquisition of John R Gordon's equity positions in Essex-related co
 |------|------|----------------|
 | Seller | John R Gordon | Transfer his personal equity positions |
 | Buyer | John A Roberts | Acquire the equity positions |
-| Essex Contact | TBD (from Eli) | Provide cap table information |
+| Essex Contact | Kathleen Kempton | Handle mechanics of unit transfers and cap table updates |
 | Deltec Reps | JVR (John von Reine) & Madge (Dietrich) | Review agreements & receive updates |
 
 ## Target Companies
 
-1. **Astreka** - Holdings TBD, 2024 K-1 not issued yet (confirmed 9/16)
-2. **Geosynfuels** - Holdings TBD, 2024 K-1 not issued yet (confirmed 9/16)
-3. **Wood Solutions Group** - Holdings TBD, 2024 K-1 not issued yet (confirmed 9/16)
+1. **Astreka** - Holdings TBD, ✅ 2024 K-1 received by John R Gordon (9/24)
+2. **Geosynfuels** - Holdings TBD, ✅ 2024 K-1 received by John R Gordon (9/24)
+3. **Wood Solutions Group** - Holdings TBD, 2024 K-1 expected shortly (9/24)
 
 **Not Included:**
 - **The Water Company** - John R Gordon does not hold membership units
@@ -108,15 +127,30 @@ Complete the acquisition of John R Gordon's equity positions in Essex-related co
 
 - **[LLC Unit Purchase Agreement Template](llc-unit-purchase-agreement-template.md)** - Standard template ready for customization
 
+## Progress Update
+
+### Recent Completion
+- ✅ **Purchase agreements drafted** - Created customized agreements for all three companies (Astreka, Geosynfuels, Wood Solutions Group)
+
 ## Immediate Next Actions
 
-1. **Contact Eli** - Get Essex employee name for cap table information
-2. **Draft sale agreements** - Customize template for each of the three companies
-3. **Check K-1 timeline** - Contact Eli and Essex on when 2024 K-1s are expected
-3. **Check K-1 status** - Wood Solutions Group K-1 issuance
-4. **Share with JVR & Madge** - Send draft agreements for review
+1. ~~**Contact Eli** - PRIORITY - Confirm purchase agreement sufficiency and get Essex contact name~~ ✅ **COMPLETED 9/19**
+2. ~~**Draft sale agreements** - Customize template for each of the three companies~~ ✅ **COMPLETED**
+3. ~~**Share with JVR & Madge** - Send draft agreements for review~~ ✅ **COMPLETED 9/19**
+4. ~~**Research Lanvira** - Research Eli's company before next call with him~~ ✅ **COMPLETED**
+5. ~~**Execute agreements** - Sign purchase agreements~~ ✅ **COMPLETED 9/24** - All three agreements signed
+6. ~~**Send executed copies to Deltec**~~ ✅ **COMPLETED 9/24** - Sent to JVR & Madge
+7. **Contact Kathleen Kempton** - Inform of completed transactions and request company record updates
+8. **Verify company records updated** - Ensure transfers reflected on company books and cap tables
+9. **Final confirmations** - Confirm all transfers completed properly
 
-## Status: Phase 1 Complete → Moving to Documentation Phase
+## Status: Phase 3 - Execution in Progress
+
+### 9/24/2025 Status Update
+- ✅ **Purchase agreements executed** - All three agreements signed by both parties
+- ✅ **Executed copies delivered** - Sent to Deltec reps (JVR & Madge)
+- ✅ **K-1 status updated** - John R Gordon received Astreka & GeoSynFuels K-1s, Wood Solutions Group K-1 expected shortly
+- ⏳ **Next step**: Contact Kathleen Kempton to update company records
 
 ---
 *Project tracking: Update this file as tasks are completed and new information is discovered.*
