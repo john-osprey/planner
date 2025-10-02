@@ -77,7 +77,7 @@ Complete the acquisition of John R Gordon's equity positions in Essex-related co
 
 ### Phase 3: Execution & Transfer - IN PROGRESS
 - [x] Contact Eli to get Essex employee contact information
-- [ ] **Reach out to Kathleen Kempton at Essex** - Inform of transactions and request company record updates
+- [ ] **Reach out to Kathleen Kempton at Essex** - Request transfer of units on company books and check APS units status from mom's estate
 - [x] Execute purchase agreements ✅ COMPLETED 9/24 - All three agreements signed
 - [ ] Ensure company books reflect the transfers
 - [ ] Update cap tables across all affected companies
@@ -140,7 +140,7 @@ Complete the acquisition of John R Gordon's equity positions in Essex-related co
 4. ~~**Research Lanvira** - Research Eli's company before next call with him~~ ✅ **COMPLETED**
 5. ~~**Execute agreements** - Sign purchase agreements~~ ✅ **COMPLETED 9/24** - All three agreements signed
 6. ~~**Send executed copies to Deltec**~~ ✅ **COMPLETED 9/24** - Sent to JVR & Madge
-7. **Contact Kathleen Kempton** - Inform of completed transactions and request company record updates
+7. **Contact Kathleen Kempton** - Request transfer of units on company books and check APS units status from mom's estate
 8. **Verify company records updated** - Ensure transfers reflected on company books and cap tables
 9. **Final confirmations** - Confirm all transfers completed properly
 

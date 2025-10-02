@@ -17,11 +17,11 @@ Gather all required tax documents and forms for 2024 tax return preparation and 
 - [ ] **INTRVL LLC K-1**
 
 ### 2. K-1s from Eli's Group Entities
-- [ ] **Alternative Packaging Solution LLC K-1**
+- [x] **Alternative Packaging Solution LLC K-1** - ✅ Received and shared with Larry Torella
 - [ ] **EMIP 2010 LLC K-1** (Last Year: $0)
 - [ ] **EMIP 2013 LLC K-1**
-- [ ] **Wood Solutions Group, LLC K-1** (Last Year: $0)
-- [ ] **GeoSyn Fuels LLC K-1**
+- [x] **Wood Solutions Group, LLC K-1** - ✅ Received and shared with Larry Torella
+- [x] **GeoSyn Fuels LLC K-1** - ✅ Received and shared with Larry Torella
 
 ### 3. Medical Expenses
 - [ ] **Compile significant unreimbursed medical expenses**

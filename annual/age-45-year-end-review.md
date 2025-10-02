@@ -55,6 +55,7 @@
 #### Ski Weekends
 - **Park City** (MLK Weekend) - With the Rosenthals and Lochners
 - **Sunday River** (Presidents Weekend) - With the Farmers and Benensons
+- **Vail** - With James, Pete, Dan, and Dave
 
 #### Family & Friends Visits
 - **Washington, DC** (March) - Visited Martha, Kate, and newborn Marian
@@ -63,6 +64,9 @@
   - Stayed with Jimmy and Annie
   - Saw Deb on the ferry
   - Pizza and beer at The Diamond in New London
+- **Nano Dinners** - Three or four intimate gatherings with dear old friends Nano and Emily
+  - Sometimes joined by James and/or Amias
+  - Maintaining cherished long-term friendships through regular connection
 
 ### Sports & Recreation
 
@@ -91,41 +95,46 @@
 #### Professional Baseball
 - **Yankees ALCS Game 1** vs Guardians - Live attendance
 - **Yankees-Dodgers World Series** - Watched most games including the crushing Game 5 loss
+- **Phillies game in Philadelphia** - Family outing with Katie, Teddy, and Sam
+  - Joined by Nano, cousin Sophie and her husband Tony, and uncle Dan
+  - Multi-generational family baseball experience
 
-## Accomplishments to Celebrate
+### Music & Concerts
 
-### Travel Memories Created
-- ✅ **8 major trips/getaways** across 4 countries and multiple states
-- ✅ **Meaningful milestone**: Boys' first independent iPad communication
-- ✅ **Cultural experiences**: Museums, architecture, international cuisine
-- ✅ **Adventure activities**: ATV, jet ski, skiing, theme parks
-- ✅ **Quality family time**: Extended stays in Fire Island and Keene Valley
+#### Live Music Experiences
+- **Arcade Fire** (Philadelphia) - With Katie for her birthday, possibly one of their final shows ever
+  - Stayed at Anna and Bel Hotel
+  - Significant cultural moment witnessing a legendary band's potential farewell tour
+- **King Gizzard and the Lizard Wizard** (Forest Hills Stadium) - With Pete
+  - Psychedelic rock experience at iconic Queens venue
 
-### Sports & Entertainment
-- ✅ **Live playoff baseball** experience with the boys
-- ✅ **Multiple ski weekends** with different friend groups
-- ✅ **Baseball tournaments** supporting both boys' athletic development
-- ✅ **Concert experience** - Arcade Fire in Philadelphia
+## Key Accomplishments Summary
 
-### Family & Relationships
-- ✅ **New family member celebration** - Visit to meet baby Marian
-- ✅ **Memorial participation** - Honoring AJ's mother with friends
-- ✅ **Maintained friendships** across multiple social circles and locations
+### Professional Growth & Transition
+- ✅ **Major career pivot**: Strategic transition from Intrvl co-founder to advisory role after 4.5 years
+- ✅ **Election cycle leadership**: Extensive 2024 election work with comprehensive post-election analysis
+- ✅ **Entrepreneurial revival**: Resurrected Osprey Labs with first Apogee engagement
+- ✅ **Career development**: Proactive job search with mentor/coach support
 
-### Education & School Success
-- ✅ **Teddy's breakthrough year** - Best academic year yet in 5th grade
-  - Exceptional work ethic and responsibility impressed all teachers
-  - Sadie King-Hoffman as supportive advisor
-  - Mr. Rutledge for math instruction
-  - Patrick Kieffer as English/History teacher - became Teddy's best advocate and teacher
-- ✅ **Sam's steady progress** - Solid 3rd grade year despite teacher fit challenges
-  - Persevered with Isabelle Rubin and Dani Bowen as teachers
+### Health & Athletic Excellence
+- ✅ **Running mastery**: 2+ year daily streak, 2:50 Tokyo Marathon, Ragnar relay championship
+- ✅ **Preventive healthcare**: Comprehensive medical checkups and screenings
+- ✅ **Relationship strengthening**: Marriage counseling leading to strongest relationship in over a decade
+
+### Family & Home
+- ✅ **Major home upgrade**: Successfully navigated HVAC crisis and system modernization
+- ✅ **Travel experiences**: 8 major trips across 4 countries creating lasting family memories
+- ✅ **Boys' development**: Teddy's academic breakthrough year, both boys' baseball and outdoor adventures
+- ✅ **Financial optimization**: Platinum Amex upgrade for improved household financial access
+
+### Sports & Community
+- ✅ **Baseball commitment**: Year-round coaching and tournament support for both boys
+- ✅ **Adventure activities**: Three ski weekends, hiking, professional sports attendance
+- ✅ **Cultural experiences**: Live music including potentially historic Arcade Fire show and King Gizzard performance
+- ✅ **Social connections**: Maintained friendships across multiple geographic locations
 
 ---
 
-## Additional Sections to Complete
-
-*[Space for additional content in future prompts]*
 
 ### Professional Accomplishments
 - ✅ **Major career decision**: After 4.5 years building Intrvl from scratch, decided to transition from co-founder to advisory role
@@ -144,7 +153,10 @@
   - *Detailed pipeline tracking: /Users/johnroberts/git/job-pipeline-2025*
 
 ### Personal Growth & Learning
-*To be added*
+- ✅ **Career coaching relationship**: Regular sessions with career coach Daryl to navigate professional transition
+- ✅ **Mentorship**: Ongoing guidance from advisor/mentor Tom throughout major career decisions
+- ✅ **Board service**: Brooklyn Bridge Park board member - secured NYC Marathon packages for spring luncheon and fall gala fundraising events (coordinated through Alex Egan at NYRR)
+- *[Additional learning experiences to be documented]*
 
 ### Home & Family Life
 - ✅ **Marriage counseling progress**: Continued sessions with Robert, resulting in the strongest marriage since before Teddy and Sam were born
@@ -157,6 +169,13 @@
   - ✅ Heat pump fully installed and operational as of last week
   - ✅ Old oil tank removed, 3 of 5 temporary oil drums removed
   - ⏳ Gas line installation pending (permits approved, installation scheduled)
+
+**Adirondack Property Exploration:**
+- 🔍 **99 Levi Lamb Way investigation**: Explored acquiring off-the-grid property in Keene Valley
+  - Conducted site visit and property evaluation
+  - Researched financing options and feasibility
+  - ❌ **Decision to decline**: Ultimately chose not to pursue due to financial stretch and Katie's reservations
+  - Valuable exercise in exploring lifestyle alternatives and financial decision-making
 
 ### Health & Wellness
 
@@ -180,13 +199,48 @@
 
 ---
 
-## Reflection
+## Reflection & Analysis
 
-This year was filled with incredible experiences, meaningful connections, and memorable adventures. Looking at this list, it's clear that 2024 was a year of rich family experiences, maintaining important friendships, and creating lasting memories with Teddy and Sam as they grow older.
+### Major Themes of 2024
+1. **Strategic Life Transitions**: From career pivoting to home infrastructure upgrades, 2024 was defined by thoughtful, planned changes
+2. **Athletic Excellence**: Peak running performance combined with consistent health maintenance
+3. **Family Investment**: Extensive travel, relationship strengthening, and creating formative experiences for Teddy and Sam
+4. **Professional Evolution**: Balanced departure from startup life while maintaining expertise through consulting
 
-**Key Theme**: *Quality time and shared experiences with family and friends*
+### Key Success Patterns
+- **Proactive planning**: Major decisions (career, HVAC, health) made with proper support systems
+- **Balance maintenance**: Successfully juggled professional transition, family time, and personal health
+- **Relationship prioritization**: Marriage counseling and family experiences took precedence
+- **Athletic consistency**: Daily discipline combined with ambitious goals (marathon, relay)
+
+### Areas for Continued Focus
+- Complete job search transition successfully
+- Finish HVAC project (gas line installation)
+- Find new dermatologist to replace Dr. Markowitz
+- Continue building on marriage counseling progress
 
 ---
 
-*Last Updated: 2025-09-16*
+*Last Updated: 2025-09-18*
 *Document created to appreciate and acknowledge the full scope of accomplishments rather than focusing on what didn't happen.*
+
+---
+
+## Areas for Additional Input
+
+**Missing Details That Could Enrich This Review:**
+1. **Personal Growth & Learning**: Any books read, courses taken, skills developed, or personal insights gained
+2. **Social & Community**: Volunteer work, community involvement, new friendships formed
+3. **Creative & Hobbies**: Any creative projects, hobbies picked up or developed
+4. **Financial**: Investment performance, savings milestones, major purchases beyond Amex
+5. **Technology & Tools**: New systems, apps, or tools that improved productivity or life
+6. **Challenges Overcome**: Specific obstacles navigated beyond the oil tank crisis
+7. **Unexpected Highlights**: Serendipitous moments or surprise positive experiences
+8. **Legacy & Impact**: How your work at Intrvl, coaching, or other activities impacted others
+
+**Process Recommendations:**
+- Consider quarterly mini-reviews to capture details while fresh
+- Use photo albums/social media to trigger additional memories
+- Include financial/quantitative metrics where meaningful
+- Document lessons learned from major decisions (career transition, HVAC project)
+- Track personal growth metrics (books read, skills developed, habits formed/broken)

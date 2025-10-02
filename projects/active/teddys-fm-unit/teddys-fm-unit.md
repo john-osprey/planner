@@ -27,15 +27,17 @@ Set up and implement Teddy's new FM system to assist his hearing in school. The 
 - [x] **Read setup instructions** and user manual
 - [x] **Set up FM system** according to manufacturer guidelines ✅ COMPLETED 9/19
 
-#### Phase 2: School Implementation - READY TO BEGIN
+#### Phase 2: School Implementation - IN USE
 - [x] **Test FM system** with Teddy ✅ COMPLETED 9/24 - System working well, Teddy comfortable
-- [ ] **Inform teachers** about tomorrow (Wednesday) start date
+- [x] **Inform teachers** about FM unit use ✅ COMPLETED
 - [x] **Train Teddy** on proper use and care of the system ✅ COMPLETED during testing
-- [ ] **Begin school use** starting tomorrow (Wednesday)
+- [x] **Begin school use** ✅ IN USE - Teddy now using FM unit at school
 
-#### Phase 3: Follow-up & Monitoring
-- [ ] **Check with teachers** on system effectiveness after first week
-- [ ] **Follow up with Teddy** on comfort and usage
+#### Phase 3: Follow-up & Monitoring - IN PROGRESS
+- [ ] **Confirm usage across all classes** - Verify Teddy is using FM unit in all his classes
+- [ ] **Check in with Teddy** - Get feedback on how the system is working for him
+- [ ] **Follow up with Mr. Goldin** - Check with advisor on system effectiveness
+- [ ] **Contact Min and Yves** - Get their feedback on FM unit usage
 - [ ] **Address any issues** or adjustments needed
 - [ ] **Establish maintenance routine** for the device
 
@@ -46,6 +48,8 @@ Set up and implement Teddy's new FM system to assist his hearing in school. The 
 | Parent | John A Roberts | Project coordination and setup |
 | Student | Teddy | Learning to use the FM system |
 | Teachers | School staff | Classroom implementation and feedback |
+| Advisor | Mr. Goldin | School coordination and feedback |
+| Support | Min and Yves | Additional feedback and monitoring |
 | Vendor | TBD | Technical support if needed |
 
 ## Timeline
@@ -71,16 +75,16 @@ Set up and implement Teddy's new FM system to assist his hearing in school. The 
 ## Immediate Next Actions
 
 1. ~~**Test with Teddy** - Have Teddy try out the FM system~~ ✅ **COMPLETED 9/24**
-2. **Inform teachers** - Let teachers know about tomorrow (Wednesday) start for school use
-3. **Begin school implementation** - Start using system tomorrow (Wednesday)
-4. **Monitor effectiveness** - Follow up with Teddy and teachers on system performance
+2. **Confirm usage across all classes** - Verify Teddy is using FM unit in all his classes
+3. **Check in with Teddy** - Get feedback on how the system is working for him
+4. **Follow up with Mr. Goldin** - Check with advisor on system effectiveness
+5. **Contact Min and Yves** - Get their feedback on FM unit usage
 
-## Status: Testing Complete - Ready for School Implementation Tomorrow
+## Status: In Use at School - Monitoring Phase
 
-### 9/24/2025 - Testing Complete and School Implementation Ready
-- ✅ **FM unit tested with Teddy** - System tested and Teddy is comfortable with it
-- ✅ **System working properly** - Hearing aid and microphone functioning well
-- ⏳ **Next steps**: Inform school about tomorrow start, begin daily use
+### 10/02/2025 - School Implementation Complete
+- ✅ **FM unit in use at school** - Teddy successfully using system in school
+- ⏳ **Next steps**: Confirm usage across all classes, gather feedback from all stakeholders
 
 ### 9/19/2025 Progress Update
 - ✅ **FM unit delivered and set up** - Hearing aid and microphone connected and charging
