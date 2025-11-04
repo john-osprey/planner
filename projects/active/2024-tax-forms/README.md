@@ -8,34 +8,38 @@ Gathering all required tax documents for 2024 tax return preparation.
 
 ## Status
 
-**Current Phase:** K-1 Collection (Phase 1 of 3)
-**Priority:** High
+**Current Phase:** Payment & Follow-up (Phase 4 of 4)
+**Priority:** Medium
 **Accountant:** Larry Torella
+**Completion:** Tax returns filed (10/14/2025)
 
-## Required Documents
+## Completed Work ✅
 
-### K-1s Needed (7 total)
-**Non-Eli Group:**
-- Katie's Korshak Bagels K-1
-- INTRVL LLC K-1
+### Documents Collected & Submitted
+- ✅ All available K-1s received and submitted
+  - Katie's Korshak Bagels, INTRVL LLC
+  - Alternative Packaging Solution, Wood Solutions Group, GeoSyn Fuels
+  - Filed without EMIP 2010 LLC and EMIP 2013 LLC K-1s
+- ✅ Tax returns completed and filed by Larry Torella (10/14/2025)
 
-**Eli's Group:**
-- Alternative Packaging Solution LLC K-1
-- EMIP 2010 LLC K-1 (LY $0)
-- EMIP 2013 LLC K-1
-- Wood Solutions Group, LLC K-1 (LY $0)
-- GeoSyn Fuels LLC K-1
+### Medical/Charitable
+- ⏭️ Skipped compilation of unreimbursed medical expenses
+- ⏭️ Skipped compilation of charitable contributions
 
-### Other Documentation
-- Significant unreimbursed medical expenses
-- Charitable contributions records
+## Financial Summary (from Larry's 10/14 email)
 
-## Next Actions
+- 💰 **Federal tax bill**: $22,451 - Payment scheduled 11/5/2025
+- 💰 **Q1 2026 estimated tax**: $28,000 due 1/15/2026
+- 💵 **NY State refund**: $15,980 expected
 
-1. Contact Eli/Essex about group entity K-1 timeline
-2. Contact Katie's Korshak Bagels for K-1 status
-3. Review INTRVL LLC records
-4. Begin organizing medical/charitable records
+## Remaining Actions
+
+1. **Pay federal tax bill** - $22,451 (tomorrow 11/5)
+2. **Set reminder** - Q1 2026 estimated tax payment ($28,000 due 1/15/2026)
+3. **Watch for refund** - NY State refund check ($15,980)
+4. **Schedule meeting with Larry** - Discuss 2025-2026 tax planning:
+   - 2025: Osprey Labs income
+   - 2026: Katie at Amber Waves, John at Microsoft & Apogee, potential INTRVL deferred comp
 
 ---
-*Last Updated: 2025-09-16*
+*Last Updated: 2025-11-04*
