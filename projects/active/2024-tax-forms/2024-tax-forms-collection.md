@@ -47,10 +47,10 @@ Gather all required tax documents and forms for 2024 tax return preparation and 
 - [x] Provide organized documentation with summary ✅ Completed
 
 ### Phase 4: Payment & Follow-up - IN PROGRESS
-- [ ] Pay federal tax bill ($22,451) - Scheduled 11/5/2025
+- [x] Pay federal tax bill ($22,451) ✅ Paid
 - [ ] Set reminder for Q1 2026 estimated tax ($28,000 due 1/15/2026)
-- [ ] Watch for NY State refund check ($15,980)
-- [ ] Deposit NY State refund when received
+- [x] Watch for NY State refund check ($15,980) ✅ Received
+- [x] Deposit NY State refund when received ✅ Deposited
 - [ ] Schedule meeting with Larry for 2025-2026 tax planning
 
 ## Entity Contact Information
@@ -87,9 +87,9 @@ Gather all required tax documents and forms for 2024 tax return preparation and 
 - [x] Charitable contributions documented ⏭️ Skipped
 - [x] Complete document package delivered to Larry Torella ✅ COMPLETED
 - [x] Tax returns filed ✅ COMPLETED (filed by Larry on 10/14)
-- [ ] Federal tax bill paid ($22,451) - Scheduled 11/5/2025
+- [x] Federal tax bill paid ($22,451) ✅ COMPLETED
 - [ ] Q1 2026 estimated tax reminder set ($28,000 due 1/15/2026)
-- [ ] NY State refund received and deposited ($15,980)
+- [x] NY State refund received and deposited ($15,980) ✅ COMPLETED
 - [ ] 2025-2026 tax planning meeting scheduled with Larry
 
 ## Immediate Next Actions
@@ -98,9 +98,9 @@ Gather all required tax documents and forms for 2024 tax return preparation and 
 2. ~~**Contact Katie's Korshak Bagels**~~ ✅ **COMPLETED** - K-1 received and submitted
 3. ~~**Review INTRVL LLC**~~ ✅ **COMPLETED** - K-1 received and submitted
 4. ~~**Submit to Larry Torella**~~ ✅ **COMPLETED** - Tax returns filed (10/14)
-5. **Pay federal tax bill** - $22,451 due, scheduled for 11/5/2025
+5. ~~**Pay federal tax bill**~~ ✅ **COMPLETED** - $22,451 paid
 6. **Set Q1 2026 estimated tax reminder** - $28,000 due 1/15/2026
-7. **Watch for NY State refund check** - $15,980 expected
+7. ~~**Watch for NY State refund check**~~ ✅ **COMPLETED** - $15,980 received and deposited
 8. **Schedule meeting with Larry** - Discuss 2025-2026 tax planning (Osprey Labs, Amber Waves, Microsoft, Apogee, INTRVL deferred comp)
 
 ## Status: Phase 3 - Tax Returns Filed, Payment & Follow-up Remaining
@@ -118,9 +118,18 @@ Gather all required tax documents and forms for 2024 tax return preparation and 
 - 💵 **NY State refund**: $15,980 expected - Watch for check and cash when received
 
 **Remaining Actions:**
-- Pay federal tax bill ($22,451) - Scheduled for 11/5/2025
+- ~~Pay federal tax bill ($22,451)~~ ✅ COMPLETED - Paid
 - Set reminder for Q1 2026 estimated tax payment ($28,000 due 1/15/2026)
-- Watch for and deposit NY State refund check ($15,980)
+- ~~Watch for and deposit NY State refund check ($15,980)~~ ✅ COMPLETED - Received and deposited
+- Schedule meeting with Larry to discuss 2025-2026 tax planning
+
+### 11/30/2025 - Payment and Refund Completed
+**Major Milestone:**
+- ✅ **Federal tax bill paid** - $22,451 payment completed
+- ✅ **NY State refund received and deposited** - $15,980 refund check received and deposited
+
+**Remaining Actions:**
+- Set reminder for Q1 2026 estimated tax payment ($28,000 due 1/15/2026)
 - Schedule meeting with Larry to discuss 2025-2026 tax planning
 
 ### Future Tax Planning Discussion Topics
