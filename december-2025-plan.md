@@ -12,12 +12,14 @@
 ### Afternoon
 - [ ] **Food tracking**: Download MyFitnessPal app, set up profile
 - [ ] **Shopping list**: Create grocery list (oats, beans, apples, oranges, olive oil)
-- [ ] **Microsoft prep**: Review conflict of interest disclosure requirements
+- [ ] **Microsoft prep**: Contact Microsoft HR about conflict disclosure process
+- [ ] **INTRVL**: Review slicer development status, identify remaining work
 
 ### Evening
 - [ ] **Log all food**: Enter breakfast, lunch, dinner in MyFitnessPal
 - [ ] **Family meeting**: Introduce winter training program to boys, get their input
 - [ ] **YNAB**: Start entering today's transactions
+- [ ] **Christmas planning**: Start Christmas gift list (boys, Katie, others)
 
 ---
 
@@ -32,11 +34,14 @@
 - [ ] **Microsoft prep**: List all potential conflicts (Korshak Bagels, INTRVL, Essex investments, Osprey Labs)
 - [ ] **Food tracking**: Log all meals, review yesterday's saturated fat intake
 - [ ] **Running shoes**: Check boys' running shoes, order new if needed
+- [ ] **INTRVL**: Work on finishing slicer development
+- [ ] **Schedule**: Coffee with Devon (schedule for this week or next)
 
 ### Evening
 - [ ] **Family bodyweight strength**: First session with boys (15-20 min circuit)
 - [ ] **YNAB**: Create basic category structure (10-15 categories to start)
 - [ ] **Log food and reconcile**: MyFitnessPal and YNAB
+- [ ] **Baseball**: Figure out towel pitching drill setup for boys at home
 
 ---
 
@@ -51,11 +56,14 @@
 - [ ] **Food tracking**: Review 3-day saturated fat baseline, identify top sources
 - [ ] **Bean meal prep**: Cook batch of black beans for week
 - [ ] **Personal goals**: Draft first-week goals for Microsoft role
+- [ ] **INTRVL**: Work out remaining discrepancies in apogee pipeline
+- [ ] **Family**: Determine plan for Dec 10th and DC visit
 
 ### Evening
 - [ ] **Marathon training**: Your regular run
 - [ ] **YNAB**: Assign all available money to categories (give every dollar a job)
 - [ ] **Log food**: Continue tracking
+- [ ] **INTRVL**: Prepare Catalist ingest and strtfr walkthrough presentation
 
 ---
 
@@ -70,11 +78,14 @@
 - [ ] **Food prep**: Make overnight oats for Friday
 - [ ] **Cold weather gear**: Check family's winter running gear, order if needed
 - [ ] **Food tracking**: Analyze 4-day average saturated fat
+- [ ] **INTRVL**: Present walkthrough of Catalist ingest and strtfr apps to team
+- [ ] **Christmas**: Start Christmas shopping (online or in-store)
 
 ### Evening
 - [ ] **Family bodyweight strength**: Second session with boys (15-20 min)
 - [ ] **Katie coordination**: Show Katie YNAB, get her account access set up
 - [ ] **Log food and transactions**
+- [ ] **Schedule**: Coffee with coach James re Teddy and baseball (schedule for next week)
 
 ---
 
@@ -89,10 +100,13 @@
 - [ ] **Meal planning**: Plan next week's bean meals (3-4 meals)
 - [ ] **Calendar setup**: Create shared family training calendar
 - [ ] **Rest day prep**: Boys have rest day, you have easy run or rest
+- [ ] **INTRVL**: Align on deployment plan for apogee pipeline with team
+- [ ] **INTRVL**: Finish slicer development (final push)
 
 ### Evening
 - [ ] **Date night/family time**: Lighter evening, track food only
 - [ ] **Review week**: Quick reflection on what worked, what didn't
+- [ ] **Christmas**: Continue Christmas shopping, check gift list progress
 
 ---
 
@@ -109,11 +123,14 @@
 ### Afternoon
 - [ ] **Meal prep Sunday**: Prep components for next week
 - [ ] **Marathon training**: Your medium-long run
-- [ ] **Microsoft prep**: Review marketing metrics fundamentals
+- [ ] **Microsoft prep**: Start reading Marketing Metrics book
+- [ ] **Christmas**: Decide on Christmas card (yes/no), order if yes
+- [ ] **Dad**: Figure out time to see dad, plan visit
 
 ### Evening
 - [ ] **Week review**: Assess progress on all projects
 - [ ] **Plan Sunday**: Confirm first family run timing
+- [ ] **INTRVL**: Update intrvl_cookbook with links (strtfr, slicer, Catalist walkthrough)
 
 ---
 
@@ -128,10 +145,12 @@
 - [ ] **Meal prep**: Finish prep for week 2
 - [ ] **Microsoft prep**: Set specific first-week goals document
 - [ ] **Review and plan**: Assess Week 1, plan Week 2
+- [ ] **Christmas**: Order photos to frame for dad's Christmas gift
 
 ### Evening
 - [ ] **Family time**: Relaxed evening
 - [ ] **Prepare for week ahead**: Lay out Monday clothes, prep breakfast
+- [ ] **Microsoft prep**: Continue reading Marketing Metrics
 
 ---
 
@@ -147,11 +166,26 @@
 - [x] Conflict disclosure document drafted
 - [x] Groceries stocked (oats, beans, apples, oranges)
 
+**INTRVL Work Completed:**
+- [ ] Slicer development progress made
+- [ ] Catalist/strtfr walkthrough presented
+- [ ] Apogee pipeline discrepancies identified
+- [ ] Apogee deployment plan aligned
+
+**Personal/Family:**
+- [ ] Christmas gift list created
+- [ ] Towel pitching drill figured out for boys
+- [ ] Coffee meetings scheduled (Devon, Coach James)
+- [ ] Dec 10th DC plan determined
+- [ ] Time to see dad planned
+- [ ] Christmas card decision made
+- [ ] Photos ordered for dad's gift
+
 **Nice to Have:**
 - Katie actively using YNAB
 - 3+ bean meals consumed
 - Cold weather gear ordered
-- Marketing metrics reading started
+- Marketing metrics reading started (10+ pages)
 
 ---
 
@@ -175,29 +209,93 @@
 
 ---
 
-## Week 2 (Dec 8-14): ESTABLISH CONSISTENCY
-**Theme**: Build momentum, Microsoft starts
+## Week 2 (Dec 8-14): INTRVL WRAP-UP + MICROSOFT PREP
+**Theme**: Complete INTRVL work, final Microsoft prep, Microsoft starts Saturday
 
-**Priorities:**
-1. Maintain oatmeal + apple daily
-2. Add 3-4 bean meals to weekly routine
-3. YNAB daily tracking becomes habit
-4. Family training: 2x strength, 1x run
-5. Microsoft prep intensifies (week before start)
-6. Complete conflict disclosure submission
-7. **Friday Dec 13**: Last prep day before Microsoft
-8. **Saturday Dec 14**: MICROSOFT START DATE
+**CRITICAL: INTRVL Work Must Be Done by Friday 12/13**
+
+**Top Priorities:**
+1. **INTRVL wrap-up** (Mon-Wed focus):
+   - Finish slicer development completely
+   - Update intrvl_cookbook with all links and walkthroughs
+   - Complete apogee pipeline work
+   - **Inform network of leaving INTRVL for Microsoft**
+2. **Microsoft prep** (Thu-Fri focus):
+   - Finalize conflict disclosure and submit
+   - Continue Marketing Metrics reading (50+ pages)
+   - Complete first-week goals document
+   - Prepare questions for manager/team
+3. **Maintain health habits**:
+   - Oatmeal + apple daily
+   - 3-4 bean meals this week
+   - YNAB daily tracking
+4. **Family training**: 2x strength (Tue/Thu), Sunday run (Dec 15)
+5. **Personal**: Coffee meetings, Christmas shopping continues
+6. **Saturday Dec 15**: MICROSOFT START DATE
+
+**Daily Breakdown Week 2:**
+
+**Monday Dec 8:**
+- AM: Oatmeal breakfast, INTRVL: Complete slicer
+- PM: INTRVL: Begin intrvl_cookbook updates
+- Eve: Family strength session, YNAB update
+
+**Tuesday Dec 9:**
+- AM: Oatmeal breakfast, INTRVL: Finish intrvl_cookbook updates
+- PM: INTRVL: Final apogee pipeline work
+- Eve: Coffee with Devon OR Coach James
+
+**Wednesday Dec 10:**
+- AM: Oatmeal breakfast
+- PM: **Dec 10th DC plan execution** (if traveling)
+- Eve: INTRVL: Draft network notification about Microsoft move
+
+**Thursday Dec 11:**
+- AM: Oatmeal breakfast, **Send network notification re: Microsoft**
+- PM: Microsoft: Finalize and submit conflict disclosure
+- Eve: Family strength session, Continue Marketing Metrics
+
+**Friday Dec 12:**
+- AM: Oatmeal breakfast, Microsoft: Final prep work
+- PM: Microsoft: Review all materials, prepare for Monday
+- Eve: Family time, early night before job start
+
+**Saturday Dec 13:**
+- AM: Family training check-in, Coffee with Coach James (if not done)
+- PM: **CHRISTMAS SHOPPING PRIORITY** - finish gifts for boys, Katie, others
+- Eve: Relax, prep for Sunday
+
+**Sunday Dec 14:**
+- AM: Family run, YNAB weekly review
+- PM: **MICROSOFT START DATE - Orientation/First Day activities**
+- Eve: Reflect on first day, prep for Week 1
 
 **Training:**
-- Family: 2x bodyweight strength, Sunday family run
-- Dad: Marathon training continues
-- Focus: Consistency and fun
+- Family: 2x bodyweight strength (Mon/Thu), Sunday family run
+- Dad: Marathon training continues (adjust for stress if needed)
+- Focus: Maintain consistency despite busy week
 
-**Microsoft:**
-- Finalize first-week goals
-- Review ecosystem research
-- Prepare questions for manager/team
-- Ensure all pre-start paperwork done
+**Microsoft Prep:**
+- Complete and submit conflict disclosure by Thu 12/11
+- Read 50+ pages Marketing Metrics
+- Finalize first-week goals document
+- Review ecosystem research notes
+- Prepare questions for manager and team
+- All pre-start paperwork completed
+
+**INTRVL Final Tasks:**
+- [ ] Slicer 100% complete
+- [ ] intrvl_cookbook fully updated with links
+- [ ] Apogee pipeline complete and deployed
+- [ ] Network informed of Microsoft move
+- [ ] Any handoff documentation completed
+
+**Personal/Family Week 2:**
+- [ ] Execute Dec 10th DC plan
+- [ ] Coffee with Devon
+- [ ] Coffee with Coach James
+- [ ] Major Christmas shopping progress (finish most gifts)
+- [ ] Dad visit planned or executed
 
 ---
 
