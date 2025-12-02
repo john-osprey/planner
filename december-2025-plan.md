@@ -2,46 +2,69 @@
 
 **Week Focus**: Launch new habits and Microsoft prep kickoff
 
-## Monday, December 1
+## Monday, December 1 ✅ COMPLETED
 
-### Morning
-- [ ] **Cholesterol baseline**: Schedule lipid panel appointment (if not recent)
-- [ ] **YNAB**: Reactivate YNAB account, link primary checking account
-- [ ] **Breakfast**: Start oatmeal routine - make oatmeal with apple slices
+### ✅ What Got Done:
+**Health & Diet:**
+- ✅ Started logging food in MyFitnessPal
+- ✅ Ate healthier (cholesterol-reducing focus)
+- ✅ 3 mile run (marathon training)
 
-### Afternoon
-- [ ] **Food tracking**: Download MyFitnessPal app, set up profile
-- [ ] **Shopping list**: Create grocery list (oats, beans, apples, oranges, olive oil)
-- [ ] **Microsoft prep**: Contact Microsoft HR about conflict disclosure process
-- [ ] **INTRVL**: Review slicer development status, identify remaining work
+**Microsoft Prep:**
+- ✅ Emailed Microsoft HR about conflict disclosure
+- ✅ Texted manager about disclosing potential COIs
 
-### Evening
-- [ ] **Log all food**: Enter breakfast, lunch, dinner in MyFitnessPal
-- [ ] **Family meeting**: Introduce winter training program to boys, get their input
-- [ ] **YNAB**: Start entering today's transactions
-- [ ] **Christmas planning**: Start Christmas gift list (boys, Katie, others)
+**INTRVL Work:**
+- ✅ Made progress on slicer development
+- ✅ Made progress on Catalist ingest repo
+- ✅ Made progress on strtfr repo
+
+**Family:**
+- ✅ Took Teddy and Sam to baseball practice
+- ✅ Practiced with boys for 30 min before coach arrived
+- ✅ Cooked dinner for Sam
+- ✅ Ordered Teddy's dinner
+- ✅ Helped Teddy with math and science homework
+
+### 📝 Still To Do (Carry Forward):
+- [ ] Schedule lipid panel appointment
+- [ ] Reactivate YNAB account
+- [ ] Start oatmeal breakfast routine (begin Tuesday)
+- [ ] Create grocery list for week
+- [ ] Formal family meeting about winter training program
+- [ ] Start Christmas gift list
+
+### 💪 Day 1 Assessment:
+**Wins:** Great start on food tracking and healthier eating! Microsoft HR contacted. Solid work progress on slicer/Catalist/strtfr. Excellent dad time with boys at baseball.
+
+**Adjust for Week:** Move YNAB setup to Tuesday evening, grocery shopping to Tuesday morning, family training intro to Tuesday evening.
 
 ---
 
-## Tuesday, December 2
+## Tuesday, December 2 - ADJUSTED
 
-### Morning
-- [ ] **Breakfast**: Oatmeal with apple (Day 2)
+### Morning - Start Right
+- [ ] **Breakfast**: START OATMEAL ROUTINE - Oatmeal with apple (Day 1 of routine)
 - [ ] **Grocery shopping**: Buy week's supplies (oats, beans, apples, oranges, skim milk, olive oil)
-- [ ] **YNAB**: Link all bank accounts and credit cards
+- [ ] **Shopping list**: Make list before shopping (if not done yet)
+- [ ] **Schedule lipid panel**: Call to schedule cholesterol baseline labs
 
-### Afternoon
+### Afternoon - Work Focus
+- [ ] **INTRVL**: Continue slicer development (push toward completion)
+- [ ] **INTRVL**: Continue Catalist ingest work
+- [ ] **Food tracking**: Log all meals in MyFitnessPal, review Monday's saturated fat
 - [ ] **Microsoft prep**: List all potential conflicts (Korshak Bagels, INTRVL, Essex investments, Osprey Labs)
-- [ ] **Food tracking**: Log all meals, review yesterday's saturated fat intake
 - [ ] **Running shoes**: Check boys' running shoes, order new if needed
-- [ ] **INTRVL**: Work on finishing slicer development
-- [ ] **Schedule**: Coffee with Devon (schedule for this week or next)
 
-### Evening
-- [ ] **Family bodyweight strength**: First session with boys (15-20 min circuit)
-- [ ] **YNAB**: Create basic category structure (10-15 categories to start)
-- [ ] **Log food and reconcile**: MyFitnessPal and YNAB
+### Evening - Family & Systems
+- [ ] **Family training intro**: Introduce winter training program to boys, get their input
+- [ ] **Family bodyweight strength**: First session with boys (15-20 min circuit) - IF boys are into it after intro
+- [ ] **YNAB**: Reactivate account, link primary checking account
 - [ ] **Baseball**: Figure out towel pitching drill setup for boys at home
+- [ ] **Christmas planning**: Start gift list (boys, Katie, others)
+- [ ] **Log food**: Enter all meals in MyFitnessPal
+
+**Priority for Tuesday:** Grocery shopping, oatmeal start, family training intro, YNAB setup, continue INTRVL work
 
 ---
 
